@@ -4,4 +4,4 @@ add_core = EGY
 trade_goods = dye
 life_rating = 10
 terrain = desert
-add_core = TUR
+add_core = CYR

@@ -1,6 +1,7 @@
-owner = MGH
-controller = MGH
+owner = TUN
+controller = TUN
+add_core = TUN
 add_core = MGH
 trade_goods = lead
-life_rating = 10
-terrain = desert
+life_rating = 35
+terrain = marginal_farmland
