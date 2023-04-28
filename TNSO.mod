@@ -1,0 +1,6 @@
+name = "The Northern Struggle Overhaul"
+path = "mod/TNSO"
+user_dir = "TNSO"
+replace_path = "decisions"
+replace_path = "events"
+replace_path = "localisation"
