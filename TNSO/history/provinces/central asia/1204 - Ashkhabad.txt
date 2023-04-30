@@ -2,5 +2,7 @@ owner = AFS
 controller = AFS
 trade_goods = opium
 add_core = AFS
+add_core = PER
+add_core = ARY
 life_rating = 30
 terrain = semi_desert

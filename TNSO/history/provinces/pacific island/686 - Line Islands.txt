@@ -1,6 +1,7 @@
-owner = HAW
-controller = HAW
-add_core = HAW
-trade_goods = fish
-life_rating = 10
-terrain = coral_island
+owner = AFS
+controller = AFS
+add_core = AFS
+add_core = ARY
+trade_goods = grain
+life_rating = 30
+terrain = semi_desert

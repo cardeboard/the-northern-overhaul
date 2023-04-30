@@ -3,60 +3,56 @@
 #Tunis (488000/122000 POPs)
 1725 = {
     aristocrats = {
-        culture = catalan
+        culture = berber
         religion = catholic
         size = 3000
     }
     officers = {
-        culture = catalan
+        culture = berber
         religion = catholic
         size = 120
     }
+	
     soldiers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 6000
     }
+	
     clergymen = {
-        culture = catalan
+        culture = berber
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 3500
     }
 
     artisans = {
-        culture = catalan
-	religion = catholic
+        culture = berber
+		religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
-        size = 9000
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 6000
+        size = 25000
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 12000
+        size = 2000
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 52100
+        size = 22100
     }
 
     farmers = {
@@ -65,22 +61,69 @@
         size = 5000
     }
 
-    clergymen = {
-        culture = sephardic
-        religion = jewish
+    farmers = {
+        culture = berber
+        religion = catholic
+        size = 98200
+    }
+}
+
+#Nabeul - More Maghrebi and Sephardic than Cartago 
+
+1739 = {
+    aristocrats = {
+        culture = maghrebi 
+        religion = sunni
         size = 1000
+    }
+	
+    soldiers = {
+        culture = maghrebi
+        religion = sunni 
+        size = 800
+    }
+	
+    clergymen = {
+        culture = berber
+        religion = catholic
+        size = 50
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 18500
+        culture = berber
+        religion = catholic
+        size = 150
     }
 
-    bureaucrats = {
-        culture = sephardic
-        religion = jewish
-        size = 500
+    artisans = {
+        culture = berber
+		religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = berber
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 10000
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 32100
+    }
+
+    farmers = {
+        culture = zanj
+        religion = catholic
+        size = 1000
     }
 }
 #Bizerte (268000/67000 POPS)
@@ -181,12 +224,6 @@
         culture = maghrebi
         religion = sunni
         size = 22025
-    }
-
-    slaves = {
-        culture = zanj
-        religion = animist
-        size = 35000
     }
 }
 #Kairouan (228000/57000 POPS)
@@ -302,4 +339,125 @@
         religion = catholic
         size = 8165
     }
+}
+
+3255 = {
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 220
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 14000
+    }
+
+    slaves = {
+        culture = zanj
+        religion = animist
+        size = 8000
+    }
+	
+	artisans = {
+        culture = berber
+        religion = catholic
+        size = 15
+    }
+
+    farmers = {
+        culture = berber
+        religion = animist
+        size = 35000
+    }
+
+}
+
+
+3257 = {
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 220
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 20180
+    }
+
+    slaves = {
+        culture = zanj
+        religion = animist
+        size = 8000
+    }
+	
+	artisans = {
+        culture = berber
+        religion = catholic
+        size = 15
+    }
+
+}
+
+# Djerba
+
+3258 = {
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 500
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 15500
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 500
+    }
+
+    farmers = {
+        culture = berber
+        religion = catholic
+        size = 4500
+    }
+
 }

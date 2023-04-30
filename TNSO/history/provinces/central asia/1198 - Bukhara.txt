@@ -1,7 +1,7 @@
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = BUK
+controller = BUK
 add_core = BUK
+add_core = ARY
 trade_goods = wool
 life_rating = 35
-terrain = desert
+terrain = hilly_grassland

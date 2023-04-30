@@ -1,7 +1,6 @@
-owner = CHG
-controller = CHG
-add_core = CHG
-add_core = KOK
+owner = BUK
+controller = BUK
+add_core = BUK
 add_core = ARY
 trade_goods = grain
 life_rating = 35
